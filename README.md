@@ -89,14 +89,14 @@ const pedro = {
 ---
 
 ### 🎮 [Game Library App](https://github.com/pedroaruana/game-library-app)
-> App mobile com autenticação, cadastro de jogos com capa, sistema de favoritos e gerenciamento de coleção pessoal.
-> `React Native` `Expo` `Firebase` `TypeScript`
+> App mobile com autenticação de usuários, criação de conta, cadastro de jogos com imagem de capa, sistema de favoritos e gerenciamento em tempo real com Firestore.
+> `React Native` `Expo` `Firebase` `Firestore` `TypeScript`
 
 ---
 
-### 🛡️ [Spring Boot JWT Auth API](https://github.com/pedroaruana/spring-boot-jwt-auth-api)
-> REST API com Spring Boot, Spring Security e JWT. Autenticação de usuários e proteção de rotas.
-> `Java` `Spring Boot` `JWT`
+### 🖥️ [HelpDeskEA](https://github.com/pedroaruana/helpdesk-ea)
+> Sistema de Help Desk para suporte de T.I — abertura e acompanhamento de chamados, dashboard com métricas e filtros em tempo real.
+> `Angular 17` `Angular Material` `CI/CD` `GitHub Actions`
 
 ---
 
@@ -115,7 +115,6 @@ const pedro = {
 ### 💣 [NukeMap App](https://github.com/pedroaruana/nukemap-app)
 > App mobile com mapa interativo em satélite simulando áreas de impacto a partir de um ponto central.
 > `React Native` `TypeScript` `Expo`
-
 ---
 
 ## 📊 GitHub Stats
