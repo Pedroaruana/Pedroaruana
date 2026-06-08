@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Aruanã-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/)
 [![GitHub](https://img.shields.io/badge/GitHub-pedroaruana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedroaruana)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruanapedro@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white)](https://portifiolio-pedro.vercel.app)
 
 </div>
 
