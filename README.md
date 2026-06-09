@@ -95,8 +95,7 @@ const pedro = {
 > `React Native` `Expo` `Firebase` `Firestore` `TypeScript`
 
 ---
-
-### 🖥️ [HelpDeskEA](https://github.com/pedroaruana/helpdesk-ea)
+ ### 🖥️ [HelpDeskEA](https://github.com/Pedroaruana/HelpDeskEA)
 > Sistema de Help Desk para suporte de T.I — abertura e acompanhamento de chamados, dashboard com métricas e filtros em tempo real.
 > `Angular 17` `Angular Material` `CI/CD` `GitHub Actions`
 
