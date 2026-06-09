@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗ ███████╗██████╗ ██████╗  ██████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
-██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║
-██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║
-██║     ███████╗██████╔╝██║  ██║╚██████╔╝
-╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
+![Hacker](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNsYzNjM25kOGUwYXNjY3Q2N3Npb2JsbHR5YTR3cGpmcHoxYjRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif)
 
 ### 👋 Olá! Eu sou o **Pedro Aruanã**
 #### 🚀 Desenvolvedor Front End Júnior | Explorador de stacks | Builder de coisas legais
