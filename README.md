@@ -114,8 +114,8 @@ const pedro = {
 
 ## 🌱 Atualmente estudando
 
-- Arquitetura de software e boas práticas de código
-- Aprofundando em React e ecossistema front end
+- Estudando Angular Signals e standalone components
+- Implementando testes unitários com Jest
 - Integrações com IA e LLMs em aplicações reais
 
 ---
