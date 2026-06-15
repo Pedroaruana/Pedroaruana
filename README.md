@@ -104,7 +104,7 @@ const pedro = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/pedroaruana/pedroaruana/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Pedroaruana/Pedroaruana/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
