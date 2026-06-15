@@ -89,27 +89,9 @@ const pedro = {
 > `JavaScript`
 
 ---
-
-### 🎮 [Game Library App](https://github.com/pedroaruana/game-library-app)
-> App mobile com autenticação de usuários, criação de conta, cadastro de jogos com imagem de capa, sistema de favoritos e gerenciamento em tempo real com Firestore.
-> `React Native` `Expo` `Firebase` `Firestore` `TypeScript`
-
----
  ### 🖥️ [HelpDeskEA](https://github.com/Pedroaruana/HelpDeskEA)
 > Sistema de Help Desk para suporte de T.I — abertura e acompanhamento de chamados, dashboard com métricas e filtros em tempo real.
 > `Angular 17` `Angular Material` `CI/CD` `GitHub Actions`
-
----
-
-### 🤖 [SuportBot](https://github.com/pedroaruana/SuportBot)
-> Chatbot empresarial com RAG usando LangChain, Google Gemini e ChromaDB. Responde com base em PDFs e URLs indexados.
-> `Python` `FastAPI` `LangChain` `RAG`
-
----
-
-### 🗺️ [Urban Driver App](https://github.com/pedroaruana/urban-driver-app)
-> App mobile estilo Uber com React Native, Expo e mapas em tempo real.
-> `React Native` `Expo` `JavaScript`
 
 ---
 
