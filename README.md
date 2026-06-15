@@ -100,17 +100,15 @@ const pedro = {
 > `React Native` `TypeScript` `Expo`
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribuições
 
 <div align="center">
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroaruana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaruana&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroaruana&theme=tokyonight&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/pedroaruana/pedroaruana/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
 
 ---
 
