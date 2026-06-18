@@ -130,7 +130,7 @@ Se você curtiu algum projeto, tem uma oportunidade ou só quer bater um papo so
 
 ---
 
-*"Feito com 💻, café ☕ e muita curiosidade"*
+*"O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pedroaruana&color=blue&style=flat-square)
 
