@@ -132,6 +132,4 @@ Se você curtiu algum projeto, tem uma oportunidade ou só quer bater um papo so
 
 *"O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier*
 
-![GitHub followers](https://img.shields.io/github/followers/Pedroaruana?style=flat-square&color=blue)
-
 </div>
