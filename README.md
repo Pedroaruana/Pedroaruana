@@ -102,7 +102,7 @@ const pedro = {
 
 ### 🤖 [BotGram](https://github.com/Pedroaruana/BotGram)
 > Construtor visual de bots de venda para o Telegram — configura produtos, mensagens e preços e gera o código do bot pronto pra rodar.
-> `Angular 21` `TypeScript` `Tailwind CSS v4` `Node.js` • [**demo ao vivo →**](https://botgram-henna.vercel.app)
+> `Angular 21` `TypeScript` `Tailwind CSS v4` `Node.js` 
 
 ---
 
