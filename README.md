@@ -31,7 +31,7 @@
       <img src="unnamed.png" width="70" alt="Certificação"/>
       <img src="unnamed (1).png" width="70" alt="Certificação"/>
       <img src="image.png" width="70" alt="Certificação"/>
-      <img src="Captura de tela 2026-07-07 183136.png" width="70" alt="Certificação"/>
+     <img src="Captura_de_tela_2026-07-07_183136-removebg-preview.png" width="70" alt="Google Analytics Certification"/>
     </p>
 </div>
 
