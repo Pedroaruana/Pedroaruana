@@ -25,7 +25,6 @@
       <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70" alt="Data Science Essentials"/>
       <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70" alt="JavaScript Essentials 1"/>
       <img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70" alt="Cybersecurity Essentials"/>
-      <img src="https://images.credly.com/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" width="70" alt="Web Development Fundamentals"/>
       <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" alt="AWS Cloud Practitioner"/>
       <img src="fundamentals-badge-databricks-2x.png" width="70" alt="Databricks Fundamentals"/>
       <img src="unnamed.png" width="70" alt="Certificação"/>
