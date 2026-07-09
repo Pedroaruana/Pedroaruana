@@ -30,6 +30,7 @@
       <img src="unnamed.png" width="70" alt="Certificação"/>
       <img src="unnamed (1).png" width="70" alt="Certificação"/>
       <img src="image.png" width="70" alt="Certificação"/>
+      <img src="REDHAT.jpg" width="70" alt="REDD"/>
       <img src="blob.png" width="70" alt="aws s"/>
     <img src="google_analyitics_4_badge_certification.png" width="70" alt="Google Analytics Certification" style="border-radius: 50%; background: white; padding: 4px;"/>
        <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70" alt="Google Skills"/>
