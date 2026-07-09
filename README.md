@@ -32,6 +32,8 @@
       <img src="image.png" width="70" alt="Certificação"/>
     <img src="google_analyitics_4_badge_certification.png" width="70" alt="Google Analytics Certification" style="border-radius: 50%; background: white; padding: 4px;"/>
       <img src="trailhead-logo-white-outline.png" width="70" alt="Trailhead"/>
+      <img src="rag.png" width="70" alt="Certificação"/>
+      <img src="crud.png" width="70" alt="Certificação"/>
       <img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/>
     </p>
 </div>
