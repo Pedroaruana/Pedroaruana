@@ -37,6 +37,7 @@
       <img src="rag.png" width="70" alt="Certificação"/>
       <img src="crud.png" width="70" alt="Certificação"/>
       <img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/>
+      <img src="applied-skill.png" width="70" alt="Certificação mic"/>
     </p>
 </div>
 
