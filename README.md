@@ -177,5 +177,5 @@ Se você curtiu algum projeto, tem uma oportunidade ou só quer bater um papo so
 
 *"O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier*
 
-<img src="city.png" width="100%">
+
 </div>
