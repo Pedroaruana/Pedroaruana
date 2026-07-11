@@ -134,7 +134,8 @@ const pedro = {
 | **Cicada 3301** | `Flask` `Python` `Docker` | Puzzle web inspirado no Cicada 3301 utilizando esteganografia LSB, metadados EXIF e cifras clássicas. | [Ver](https://github.com/Pedroaruana/Cicada-3301) |
 | **HelpDeskEA** | `Angular 17` `Angular Material` `CI/CD` | Sistema de Help Desk com abertura e acompanhamento de chamados em tempo real. | [Ver](https://github.com/Pedroaruana/HelpDeskEA) |
 
-📁 Navegue pelos meus repositórios para descobrir mais projetos de portfólio, landing pages, aplicações com React/Next.js e muito mais!
+<sub>📁 Navegue pelos meus repositórios para descobrir mais projetos de portfólio, landing pages, aplicações com React/Next.js e muito mais!</sub>
+
 ---
 
 ## 📊 Contribuições
