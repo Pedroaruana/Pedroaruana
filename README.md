@@ -126,9 +126,9 @@ const pedro = {
 |------------|----------|--------------|:--:|
 | **Corregedoria PMBA** | `React` `Node.js` `PostgreSQL` | Sistema Full Stack para registro e gestão de ocorrências policiais, autos de resistência e termos circunstanciados. | [Ver](https://github.com/Pedroaruana/Corregedoria-PMBA) |
 | **HireMind AI** | `Python` `FastAPI` `Supabase` `IA` | Plataforma de análise inteligente de currículos com autenticação, upload de CV e classificação automática de candidatos. | [Ver](https://github.com/Pedroaruana/HireMind-AI) |
-| **Wasteland Garden** | `TypeScript` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
-| **GameHub** | `HTML` `CSS` `JavaScript` `FastAPI` `Supabase` | E-commerce Full Stack inspirado na Steam e Nuuvem com autenticação, carrinho, favoritos e checkout. | [Ver](https://github.com/Pedroaruana/GameHub) |
-| **Cicada 3301** | `Flask` `Python` `HTML` | Puzzle web inspirado no Cicada 3301 utilizando esteganografia LSB, metadados EXIF e cifras clássicas. | [Ver](https://github.com/Pedroaruana/Cicada-3301) |
+| **Wasteland Garden** | `React` `Node.js` 'Prisma' 'FastFy' | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
+| **GameHub** | `Vercel` `JavaScript` `FastAPI` `Supabase` | E-commerce Full Stack inspirado na Steam e Nuuvem com autenticação, carrinho, favoritos e checkout. | [Ver](https://github.com/Pedroaruana/GameHub) |
+| **Cicada 3301** | `Flask` `Python` `Docker` | Puzzle web inspirado no Cicada 3301 utilizando esteganografia LSB, metadados EXIF e cifras clássicas. | [Ver](https://github.com/Pedroaruana/Cicada-3301) |
 | **HelpDeskEA** | `Angular 17` `Angular Material` `CI/CD` | Sistema de Help Desk com abertura e acompanhamento de chamados em tempo real. | [Ver](https://github.com/Pedroaruana/HelpDeskEA) |
 
 ---
