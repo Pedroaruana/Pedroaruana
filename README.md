@@ -157,7 +157,7 @@ const pedro = {
 ## 📊 Contribuições
 
 <div align="center">
-## 📊 Contribuições
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedroaruana/Pedroaruana/output/galaga-contribution-graph-dark.svg">
