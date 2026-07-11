@@ -157,8 +157,8 @@ const pedro = {
 ## 📊 Contribuições
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Pedroaruana/Pedroaruana/output/github-contribution-grid-snake-dark.svg)
+  
+![Galaga animation](https://raw.githubusercontent.com/Pedroaruana/Pedroaruana/output/galaga-contribution-graph-dark.svg)
 
 </div>
 
