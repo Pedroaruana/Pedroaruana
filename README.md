@@ -119,39 +119,17 @@ const pedro = {
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 🚀 Projetos em destaque
 
-### 🤖 [HireMind AI](https://github.com/pedroaruana/hiremind-ai)
-> Sistema full-stack de análise de currículos com IA — processa CVs, extrai habilidades automaticamente e classifica candidatos por nível e função.
-> `Python` `IA` `Full Stack`
+## 🏆 Projetos em Destaque
 
----
-
-### 🎮 [GameHub](https://github.com/pedroaruana/gamehub-)
-> E-commerce Full Stack de jogos digitais inspirado na Steam e Nuuvem. Autenticação, carrinho, favoritos e checkout completo.
-> `HTML` `CSS` `JavaScript` `Python` `FastAPI` `Supabase`
-
----
-
-### 🦎 [Crocodilo Burguer](https://github.com/pedroaruana/CrocodiloBurguer)
-> Sistema de hamburgueria com interface interativa e gerenciamento de pedidos.
-> `JavaScript`
-
----
- ### 🖥️ [HelpDeskEA](https://github.com/Pedroaruana/HelpDeskEA)
-> Sistema de Help Desk para suporte de T.I — abertura e acompanhamento de chamados, dashboard com métricas e filtros em tempo real.
-> `Angular 17` `Angular Material` `CI/CD` `GitHub Actions`
-
----
-
-### 💣 [NukeMap App](https://github.com/pedroaruana/nukemap-app)
-> App mobile com mapa interativo em satélite simulando áreas de impacto a partir de um ponto central.
-> `React Native` `TypeScript` `Expo`
----
-
-### 🤖 [BotGram](https://github.com/Pedroaruana/BotGram)
-> Construtor visual de bots de venda para o Telegram — configura produtos, mensagens e preços e gera o código do bot pronto pra rodar.
-> `Angular 21` `TypeScript` `Tailwind CSS v4` `Node.js` 
+| 🚀 Projeto | 🛠️ Stack | 📝 Descrição | 🔗 |
+|------------|----------|--------------|:--:|
+| **Corregedoria PMBA** | `React` `Node.js` `PostgreSQL` | Sistema Full Stack para registro e gestão de ocorrências policiais, autos de resistência e termos circunstanciados. | [Ver](https://github.com/Pedroaruana/Corregedoria-PMBA) |
+| **HireMind AI** | `Python` `FastAPI` `Supabase` `IA` | Plataforma de análise inteligente de currículos com autenticação, upload de CV e classificação automática de candidatos. | [Ver](https://github.com/Pedroaruana/HireMind-AI) |
+| **Wasteland Garden** | `TypeScript` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
+| **GameHub** | `HTML` `CSS` `JavaScript` `FastAPI` `Supabase` | E-commerce Full Stack inspirado na Steam e Nuuvem com autenticação, carrinho, favoritos e checkout. | [Ver](https://github.com/Pedroaruana/GameHub) |
+| **Cicada 3301** | `Flask` `Python` `HTML` | Puzzle web inspirado no Cicada 3301 utilizando esteganografia LSB, metadados EXIF e cifras clássicas. | [Ver](https://github.com/Pedroaruana/Cicada-3301) |
+| **HelpDeskEA** | `Angular 17` `Angular Material` `CI/CD` | Sistema de Help Desk com abertura e acompanhamento de chamados em tempo real. | [Ver](https://github.com/Pedroaruana/HelpDeskEA) |
 
 ---
 
