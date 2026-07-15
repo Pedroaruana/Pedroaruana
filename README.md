@@ -35,7 +35,7 @@
     <img src="google_analyitics_4_badge_certification.png" width="70" alt="Google Analytics Certification" style="border-radius: 50%; background: white; padding: 4px;"/>
        <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70" alt="Google Skills"/>
       <img src="sass.png" width="70" alt="Certificação sass"/>
-      <img src="trailhead-logo-white-outline.png" width="70" alt="Trailhead"/>
+      <img src="badge.png" width="70" alt="Trailheads"/>
       <img src="rag.png" width="70" alt="Certificação"/>
       <img src="crud.png" width="70" alt="Certificação"/>
       <img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/>
