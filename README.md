@@ -129,11 +129,11 @@ const pedro = {
 | 🚀 Projeto | 🛠️ Stack | 📝 Descrição | 🔗 |
 |------------|----------|--------------|:--:|
 | **Corregedoria PMBA** | `React` `Node.js` `PostgreSQL` | Sistema Full Stack para registro e gestão de ocorrências policiais, autos de resistência e termos circunstanciados. | [Ver](https://github.com/Pedroaruana/Corregedoria-PMBA) |
-| **HireMind AI** | `Python` `FastAPI` `Supabase` `IA` | Plataforma de análise inteligente de currículos com autenticação, upload de CV e classificação automática de candidatos. | [Ver](https://github.com/Pedroaruana/HireMind-AI) |
-| **Wasteland Garden** | `React` `Node.js` `Prisma` `FastFy` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
-| **GameHub** | `Vercel` `JavaScript` `FastAPI` `Supabase` | E-commerce Full Stack inspirado na Steam e Nuuvem com autenticação, carrinho, favoritos e checkout. | [Ver](https://github.com/Pedroaruana/GameHub) |
-| **Cicada 3301** | `Flask` `Python` `Docker` | Puzzle web inspirado no Cicada 3301 utilizando esteganografia LSB, metadados EXIF e cifras clássicas. | [Ver](https://github.com/Pedroaruana/Cicada-3301) |
-| **HelpDeskEA** | `Angular 17` `Angular Material` `CI/CD` | Sistema de Help Desk com abertura e acompanhamento de chamados em tempo real. | [Ver](https://github.com/Pedroaruana/HelpDeskEA) |
+| **ScannerBuild** | `Next.js` `Three.js` `Leaflet` | Selecione um ponto no mapa e reconstrua o prédio em 3D com contorno real do OpenStreetMap, altura, andares e área estimados. | [Ver](https://github.com/Pedroaruana/Scanner-Build) |
+| **CPU Master** | `Next.js` `React Three Fiber` `TypeScript` | Simulador de montagem de PC com checagem de compatibilidade em tempo real e gabinete em 3D navegável. | [Ver](https://github.com/Pedroaruana/CPU-MASTER) |
+| **Wasteland Garden** | `React` `Node.js` `Prisma` `Fastfy` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
+| **nukemap-app** | `React Native` `Expo` `TypeScript` | Simulador de impacto nuclear com fórmulas físicas reais, 17 armas históricas e 59 cidades. | [Ver](https://github.com/Pedroaruana/nukemap-app) |
+| **HireMind AI** | `Python` `FastAPI` `Supabase` `IA` | Plataforma de análise inteligente de currículos com autenticação, upload de CV e classificação automática de candidatos. | [Ver](https://github.com/Pedroaruana/hiremind-ai) |
 
 📁 Navegue pelos meus repositórios para descobrir mais projetos de portfólio, landing pages, aplicações com React/Next.js e muito mais!
 
