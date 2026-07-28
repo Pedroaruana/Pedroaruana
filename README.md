@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfólio-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <br/><br/>
-    <div align="center" style="white-space: nowrap; overflow-x: auto;">
+    <p align="center">
   <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70" alt="Fortinet FCF Cybersecurity"/>
   <img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" width="70" alt="Getting Started in Cybersecurity"/>
   <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="70" alt="Threat Landscape"/>
@@ -30,6 +30,7 @@
   <img src="unnamed.png" width="70" alt="Certificação"/>
   <img src="unnamed (1).png" width="70" alt="Certificação"/>
   <img src="image.png" width="70" alt="Certificação"/>
+  <br/>
   <img src="REDHAT.jpg" width="70" alt="REDD"/>
   <img src="blob.png" width="70" alt="aws s"/>
   <img src="google_analyitics_4_badge_certification.png" width="70" alt="Google Analytics Certification" style="border-radius: 50%; background: white; padding: 4px;"/>
@@ -41,7 +42,7 @@
   <img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/>
   <img src="nasa-open-science-101.png" width="70" alt="Certificação mics"/>
   <img src="sappppp.png" width="70" alt="Certificação sapp"/>
-</div>
+</p>
 </div>
 
 ---
