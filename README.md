@@ -18,30 +18,38 @@
     <img src="https://img.shields.io/badge/Portfólio-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <br/><br/>
-    <p align="center">
-      <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70" alt="Fortinet FCF Cybersecurity"/>
-      <img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" width="70" alt="Getting Started in Cybersecurity"/>
-      <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="70" alt="Threat Landscape"/>
-      <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70" alt="Data Science Essentials"/>
-      <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70" alt="JavaScript Essentials 1"/>
-      <img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70" alt="Cybersecurity Essentials"/>
-      <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" alt="AWS Cloud Practitioner"/>
-      <img src="fundamentals-badge-databricks-2x.png" width="70" alt="Databricks Fundamentals"/>
-      <img src="unnamed.png" width="70" alt="Certificação"/>
-      <img src="unnamed (1).png" width="70" alt="Certificação"/>
-      <img src="image.png" width="70" alt="Certificação"/>
-      <img src="REDHAT.jpg" width="70" alt="REDD"/>
-      <img src="blob.png" width="70" alt="aws s"/>
-    <img src="google_analyitics_4_badge_certification.png" width="70" alt="Google Analytics Certification" style="border-radius: 50%; background: white; padding: 4px;"/>
-       <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70" alt="Google Skills"/>
-      <img src="sass.png" width="70" alt="Certificação sass"/>
-      <img src="badge.png" width="70" alt="Trailheads"/>
-      <img src="rag.png" width="70" alt="Certificação"/>
-      <img src="crud.png" width="70" alt="Certificação"/>
-      <img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/>
-      <img src="nasa-open-science-101.png" width="70" alt="Certificação mics"/>
-      <img src="sappppp.png" width="70" alt="Certificação sapp"/>
-    </p>
+    <table align="center">
+<tr>
+<td><img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70" alt="Fortinet FCF Cybersecurity"/></td>
+<td><img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" width="70" alt="Getting Started in Cybersecurity"/></td>
+<td><img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="70" alt="Threat Landscape"/></td>
+<td><img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70" alt="Data Science Essentials"/></td>
+<td><img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70" alt="JavaScript Essentials 1"/></td>
+<td><img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70" alt="Cybersecurity Essentials"/></td>
+</tr>
+<tr>
+<td><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" alt="AWS Cloud Practitioner"/></td>
+<td><img src="fundamentals-badge-databricks-2x.png" width="70" alt="Databricks Fundamentals"/></td>
+<td><img src="unnamed.png" width="70" alt="Certificação"/></td>
+<td><img src="unnamed (1).png" width="70" alt="Certificação"/></td>
+<td><img src="image.png" width="70" alt="Certificação"/></td>
+<td><img src="REDHAT.jpg" width="70" alt="REDD"/></td>
+</tr>
+<tr>
+<td><img src="blob.png" width="70" alt="aws s"/></td>
+<td><img src="google_analyitics_4_badge_certification.png" width="70" alt="Google Analytics Certification" style="border-radius: 50%; background: white; padding: 4px;"/></td>
+<td><img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70" alt="Google Skills"/></td>
+<td><img src="sass.png" width="70" alt="Certificação sass"/></td>
+<td><img src="badge.png" width="70" alt="Trailheads"/></td>
+<td><img src="rag.png" width="70" alt="Certificação"/></td>
+</tr>
+<tr>
+<td><img src="crud.png" width="70" alt="Certificação"/></td>
+<td><img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/></td>
+<td><img src="nasa-open-science-101.png" width="70" alt="Certificação mics"/></td>
+<td><img src="sappppp.png" width="70" alt="Certificação sapp"/></td>
+</tr>
+</table>
 </div>
 
 ---
