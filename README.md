@@ -1,24 +1,13 @@
 
 <div align="center">
   <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" width="850"/>
-
   <h3>👋 Olá! Eu sou <strong>Pedro Aruanã</strong></h3>
   <h4>🚀 Desenvolvedor Front End Júnior | Explorador de stacks | Builder de coisas legais</h4>
-
-  <a href="https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Aruanã-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pedroaruana">
-    <img src="https://img.shields.io/badge/GitHub-pedroaruana-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:aruanapedro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portifiolio-pedro.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Aruanã-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/pedroaruana"><img src="https://img.shields.io/badge/GitHub-pedroaruana-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:aruanapedro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portifiolio-pedro.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <br/><br/>
-    <p align="center">
   <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70" alt="Fortinet FCF Cybersecurity"/>
   <img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" width="70" alt="Getting Started in Cybersecurity"/>
   <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="70" alt="Threat Landscape"/>
@@ -42,7 +31,6 @@
   <img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/>
   <img src="nasa-open-science-101.png" width="70" alt="Certificação mics"/>
   <img src="sappppp.png" width="70" alt="Certificação sapp"/>
-</p>
 </div>
 
 ---
