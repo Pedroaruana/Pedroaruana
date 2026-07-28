@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" width="850"/>
   <h3>👋 Olá! Eu sou <strong>Pedro Aruanã</strong></h3>
@@ -8,29 +7,28 @@
   <a href="mailto:aruanapedro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://portifiolio-pedro.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <br/><br/>
-  <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70" alt="Fortinet FCF Cybersecurity"/>
-  <img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" width="70" alt="Getting Started in Cybersecurity"/>
-  <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="70" alt="Threat Landscape"/>
-  <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70" alt="Data Science Essentials"/>
-  <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70" alt="JavaScript Essentials 1"/>
-  <img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70" alt="Cybersecurity Essentials"/>
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" alt="AWS Cloud Practitioner"/>
-  <img src="fundamentals-badge-databricks-2x.png" width="70" alt="Databricks Fundamentals"/>
-  <img src="unnamed.png" width="70" alt="Certificação"/>
-  <img src="unnamed (1).png" width="70" alt="Certificação"/>
-  <img src="image.png" width="70" alt="Certificação"/>
-  <br/>
-  <img src="REDHAT.jpg" width="70" alt="REDD"/>
-  <img src="blob.png" width="70" alt="aws s"/>
-  <img src="google_analyitics_4_badge_certification.png" width="70" alt="Google Analytics Certification" style="border-radius: 50%; background: white; padding: 4px;"/>
-  <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70" alt="Google Skills"/>
-  <img src="sass.png" width="70" alt="Certificação sass"/>
-  <img src="badge.png" width="70" alt="Trailheads"/>
-  <img src="rag.png" width="70" alt="Certificação"/>
-  <img src="crud.png" width="70" alt="Certificação"/>
-  <img src="oracle_learning_explorer_cropped.png" width="70" alt="Oracle Learning Explorer"/>
-  <img src="nasa-open-science-101.png" width="70" alt="Certificação mics"/>
-  <img src="sappppp.png" width="70" alt="Certificação sapp"/>
+  <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70"/>
+  <img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" width="70"/>
+  <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="70"/>
+  <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70"/>
+  <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70"/>
+  <img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70"/>
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70"/>
+  <img src="fundamentals-badge-databricks-2x.png" width="70"/>
+  <img src="unnamed.png" width="70"/>
+  <img src="unnamed (1).png" width="70"/>
+  <img src="image.png" width="70"/>
+  <img src="REDHAT.jpg" width="70"/>
+  <img src="blob.png" width="70"/>
+  <img src="google_analyitics_4_badge_certification.png" width="70"/>
+  <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70"/>
+  <img src="sass.png" width="70"/>
+  <img src="badge.png" width="70"/>
+  <img src="rag.png" width="70"/>
+  <img src="crud.png" width="70"/>
+  <img src="oracle_learning_explorer_cropped.png" width="70"/>
+  <img src="nasa-open-science-101.png" width="70"/>
+  <img src="sappppp.png" width="70"/>
 </div>
 
 ---
