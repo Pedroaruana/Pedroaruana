@@ -147,7 +147,7 @@ const pedro = {
 
 - Estudando Angular Signals e standalone components
 - Implementando testes unitários com Jest
-- Integrações com IA e LLMs em aplicações reais
+- Integrações com IA e LLMs em aplicações reais 
 
 ---
 
