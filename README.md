@@ -119,7 +119,7 @@ const pedro = {
 | **ScannerBuild** | `Next.js` `Three.js` `Leaflet` | Selecione um ponto no mapa e reconstrua o prédio em 3D com contorno real do OpenStreetMap, altura, andares e área estimados. | [Ver](https://github.com/Pedroaruana/Scanner-Build) |
 | **CPU Master** | `Next.js` `React Three Fiber` `TypeScript` | Simulador de montagem de PC com checagem de compatibilidade em tempo real e gabinete em 3D navegável. | [Ver](https://github.com/Pedroaruana/CPU-MASTER) |
 | **Wasteland Garden** | `React` `Node.js` `Prisma` `Fastfy` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
-| **World-Skunks** | `TypeScript` `React` `Three.js` `CesiumJS` | Globo terrestre 3D com satélites reais orbitando ao vivo, dados TLE via CelesTrak e propagação orbital SGP4. | [Ver](https://worldskunks.netlify.app/) |
+| **World-Skunks** | `TypeScript` `React` `Three.js` `CesiumJS` | Globo terrestre 3D com satélites reais orbitando ao vivo, dados TLE via CelesTrak e propagação orbital SGP4. | [Ver](https://github.com/Pedroaruana/World-Skunks) |
 | **HireMind AI** | `Python` `FastAPI` `Supabase` `IA` | Plataforma de análise inteligente de currículos com autenticação, upload de CV e classificação automática de candidatos. | [Ver](https://github.com/Pedroaruana/hiremind-ai) |
 
 📁 Navegue pelos meus repositórios para descobrir mais projetos de portfólio, landing pages, aplicações com React/Next.js e muito mais!
