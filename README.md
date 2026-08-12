@@ -120,7 +120,7 @@ const pedro = {
 | **CPU Master** | `Next.js` `React Three Fiber` `TypeScript` | Simulador de montagem de PC com checagem de compatibilidade em tempo real e gabinete em 3D navegável. | [Ver](https://github.com/Pedroaruana/CPU-MASTER) |
 | **Wasteland Garden** | `React` `Node.js` `Prisma` `Fastfy` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
 | **World-Skunks** | `TypeScript` `React` `Three.js` `CesiumJS` | Globo terrestre 3D com satélites reais orbitando ao vivo, dados TLE via CelesTrak e propagação orbital SGP4. | [Ver](https://github.com/Pedroaruana/World-Skunks) |
-| **HireMind AI** | `Python` `FastAPI` `Supabase` `IA` | Plataforma de análise inteligente de currículos com autenticação, upload de CV e classificação automática de candidatos. | [Ver](https://github.com/Pedroaruana/hiremind-ai) |
+| **Create Your Language** | `TypeScript` `React` `Node.js` `IA` | Plataforma para criar e personalizar sua própria linguagem de programação, definindo sintaxe, comandos e regras de forma interativa. | [Ver](https://github.com/Pedroaruana/Create-Your-Language-) |
 
 📁 Navegue pelos meus repositórios para descobrir mais projetos de portfólio, landing pages, aplicações com React/Next.js e muito mais!
 
