@@ -30,7 +30,7 @@
   <img src="nasa-open-science-101.png" width="70"/>
   <img src="sappppp.png" width="70"/>
 </div>
-
+ 
 ---
 
 ## 🧑‍💻 Sobre mim
