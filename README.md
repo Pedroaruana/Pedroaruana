@@ -15,13 +15,11 @@
   <img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70"/>
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70"/>
   <img src="fundamentals-badge-databricks-2x.png" width="70"/>
-  <img src="datas.png" width="70"/>
   <img src="unnamed (1).png" width="70"/>
   <img src="image.png" width="70"/>
   <img src="unnamed.png" width="70"/>
   <img src="REDHAT.jpg" width="70"/>
   <img src="datas.png" width="70"/>
-  
   <img src="blob.png" width="70"/>
   <img src="AWSS.png" width="70"/>
   <img src="google_analyitics_4_badge_certification.png" width="70"/>
