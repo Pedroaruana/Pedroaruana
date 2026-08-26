@@ -25,12 +25,13 @@
   <img src="google_analyitics_4_badge_certification.png" width="70"/>
   <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70"/>
   <img src="sass.png" width="70"/>
-  <img src="badge.png" width="70"/>
+  <img src="oracle_badge_no_text.png" width="70"/>
+  <img src="oracle_learning_explorer_cropped.png" width="70"/>
   <img src="rag.png" width="70"/>
   <img src="crud.png" width="70"/>
-  <img src="oracle_learning_explorer_cropped.png" width="70"/>
-  <img src="oracle_badge_no_text.png" width="70"/>
   <img src="nasa-open-science-101.png" width="70"/>
+  <img src="badge.png" width="70"/>
+  <img src="oracle_badge_no_text.png" width="70"/>
   <img src="LINUXXX.png" width="70"/>
   <img src="linuxxxx.png" width="70"/>
   <img src="Nivelamento.png" width="70"/>
