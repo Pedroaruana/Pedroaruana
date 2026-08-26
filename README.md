@@ -18,8 +18,10 @@
   <img src="unnamed.png" width="70"/>
   <img src="unnamed (1).png" width="70"/>
   <img src="image.png" width="70"/>
+  <img src="datas.png" width="70"/>
   <img src="REDHAT.jpg" width="70"/>
   <img src="blob.png" width="70"/>
+  <img src="AWSS.png" width="70"/>
   <img src="google_analyitics_4_badge_certification.png" width="70"/>
   <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70"/>
   <img src="sass.png" width="70"/>
@@ -27,7 +29,16 @@
   <img src="rag.png" width="70"/>
   <img src="crud.png" width="70"/>
   <img src="oracle_learning_explorer_cropped.png" width="70"/>
+  <img src="oracle_badge_no_text.png" width="70"/>
   <img src="nasa-open-science-101.png" width="70"/>
+  <img src="LINUXXX.png" width="70"/>
+  <img src="linuxxxx.png" width="70"/>
+  <img src="Nivelamento.png" width="70"/>
+  <img src="Básico.png" width="70"/>
+  <img src="976c9fed-c65d-466b-b950-343a726177c3.png" width="70"/>
+  <img src="trailhead-logo-white-outline (1).png" width="70"/>
+  <img src="applied-skill (1).png" width="70"/>
+  <img src="gcqaxws29ogthrztk7bx.png" width="70"/>
   <img src="sappppp.png" width="70"/>
 </div>
  
