@@ -17,8 +17,7 @@
   <img src="fundamentals-badge-databricks-2x.png" width="70"/>
   <img src="unnamed (1).png" width="70"/>
   <img src="image.png" width="70"/>
-  <img src="REDHAT.jpg" width="70"/>
-  <img src="REDHAT.jpg" width="70"/>
+  <img src="datas.png" width="70"/>
   <img src="REDHAT.jpg" width="70"/>
   <img src="unnamed.png" width="70"/>
   <img src="blob.png" width="70"/>
