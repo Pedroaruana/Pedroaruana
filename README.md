@@ -74,7 +74,7 @@ const pedro = {
   ]
 };
 ```
- 
+  
 ---
 
 ## 🛠️ Stack & Ferramentas
