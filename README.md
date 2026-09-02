@@ -128,7 +128,7 @@ const pedro = {
 
 | 🚀 Projeto | 🛠️ Stack | 📝 Descrição | 🔗 |
 |------------|----------|--------------|:--:|
-| **Corregedoria PMBA** | `React` `Node.js` `PostgreSQL` | Sistema Full Stack para registro e gestão de ocorrências policiais, autos de resistência e termos circunstanciados. | [Ver](https://github.com/Pedroaruana/Corregedoria-PMBA) |
+| **Cryptographer** | `React` `TypeScript` `Web Crypto` | Criptografia que roda inteira dentro do navegador: tranca arquivos com senha, esconde segredos dentro de fotos e áudio, e mostra o que suas fotos entregam. Sem conta e sem servidor. | [Ver](https://github.com/Pedroaruana/Cryptographer) |
 | **ScannerBuild** | `Next.js` `Three.js` `Leaflet` | Selecione um ponto no mapa e reconstrua o prédio em 3D com contorno real do OpenStreetMap, altura, andares e área estimados. | [Ver](https://github.com/Pedroaruana/Scanner-Build) |
 | **CPU Master** | `Next.js` `React Three Fiber` `TypeScript` | Simulador de montagem de PC com checagem de compatibilidade em tempo real e gabinete em 3D navegável. | [Ver](https://github.com/Pedroaruana/CPU-MASTER) |
 | **Wasteland Garden** | `React` `Node.js` `Prisma` `Fastfy` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
