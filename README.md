@@ -159,9 +159,9 @@ const pedro = {
 
 ## 🌱 Atualmente estudando
 
-- Estudando Angular Signals e standalone components
-- Implementando testes unitários com Jest
-- Integrações com IA e LLMs em aplicações reais 
+- AWS e fundamentos de Cloud Computing, com foco em deploy e hospedagem
+- Testes automatizados com Jest e Vitest, aplicando boas práticas de qualidade de código
+- Integração de APIs de IA e LLMs em aplicações reais, explorando automações e novos recursos 
 
 ---
 
@@ -169,7 +169,7 @@ const pedro = {
 
 ### 💬 Bora trocar ideia?
 
-Se você curtiu algum projeto, tem uma oportunidade ou só quer bater um papo sobre tech — me chama!
+Se você curtiu algum projeto, tem uma oportunidade ou quiser contribuir em algum projeto — me chama!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/)
  <a href="mailto:aruanapedro@gmail.com">
