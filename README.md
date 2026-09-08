@@ -154,7 +154,7 @@ const pedro = {
 </div>
 
 ---
-
+ 
 ---
 
 ## 🌱 Atualmente estudando
