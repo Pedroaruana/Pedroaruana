@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" width="850"/>
   <h3>👋 Olá! Eu sou <strong>Pedro Aruanã</strong></h3>
-  <h4>🚀 Desenvolvedor Front End Júnior | Explorador de stacks | Builder de coisas legais</h4>
+  <h4>🚀 Desenvolvedor Full Stack Júnior | Explorador de stacks | Builder de coisas legais</h4>
   <a href="https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Aruanã-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/pedroaruana"><img src="https://img.shields.io/badge/GitHub-pedroaruana-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:aruanapedro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
