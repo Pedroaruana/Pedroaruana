@@ -152,7 +152,7 @@ const pedro = {
 </picture>
 
 </div>
-
+ 
 ---
  
 ---
