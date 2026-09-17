@@ -138,7 +138,7 @@ const pedro = {
 
 📁 Navegue pelos meus repositórios para descobrir mais projetos de portfólio, landing pages, aplicações com React/Next.js e muito mais!
 
----
+--- 
 
 ## 📊 Contribuições
 
