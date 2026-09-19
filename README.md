@@ -50,7 +50,7 @@
 ```javascript
 const pedro = {
   nome: "Pedro Aruanã Silva Mascarenhas",
-  role: "Front End Developer com experiência Full Stack",
+  role: "Full Stack Developer",
   level: "Desenvolvedor em constante evolução",
   localização: "Brasil 🇧🇷",
 
