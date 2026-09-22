@@ -65,7 +65,7 @@ const pedro = {
     "🔗 Integração de APIs REST e serviços externos",
     "🤖 IA, RAG, agentes e automações com n8n",
     "📊 Dashboards e análise de dados com Power BI",
-    "🚀 Experiência Full Stack para entrega ponta a ponta"
+    "🚀 Experiência Full Stack para entrega ponta a ponta" 
   ],
 
   curiosidades: [
