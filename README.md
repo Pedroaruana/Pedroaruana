@@ -47,34 +47,7 @@
   
 ##  Sobre mim
 
-```javascript
-const pedro = {
-  nome: "Pedro Aruanã Silva Mascarenhas",
-  role: "Full Stack Developer",
-  level: "Desenvolvedor em constante evolução",
-  localização: "Brasil 🇧🇷",
-
-  foco: ["interfaces modernas", "código limpo", "performance", "projetos reais"],
-
-  atualmente:
-    "Desenvolvendo aplicações web e mobile, integrando APIs, IA, automações e arquiteturas escaláveis.",
-
-  diferenciais: [
-    "🎨 Interfaces modernas com foco em UX/UI",
-    "⚛️ Componentização e arquitetura escalável",
-    "🔗 Integração de APIs REST e serviços externos",
-    "🤖 IA, RAG, agentes e automações com n8n",
-    "📊 Dashboards e análise de dados com Power BI",
-    "🚀 Experiência Full Stack para entrega ponta a ponta" 
-  ],
-
-  curiosidades: [
-    "💻 Desenvolvo soluções que conectam Front End, Back End, IA e automações.",
-    "🤖 Experiência integrando IA, RAG e automações com n8n.",
-    "⚡ Foco em componentização, performance e código escalável."
-  ]
-};
-```
+<p align="center"><img src="./terminal-roxo.svg" width="100%" /></p>
     
 --- 
 
