@@ -47,7 +47,7 @@
   
 ##  Sobre mim
 
-<p align="center"><img src="./terminal-roxo.svg" width="100%" /></p>
+<p align="center"><img src="./terminal-roxo_1.svg" width="100%" /></p>
     
 --- 
 
