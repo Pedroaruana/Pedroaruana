@@ -178,7 +178,7 @@ Se você curtiu algum projeto, tem uma oportunidade ou quiser contribuir em algu
   </a>
 --- 
 
-*"O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier*
+<p align="center"><img src="./card-laranja.svg" width="100%" /></p>
 
 
 </div>
