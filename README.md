@@ -106,7 +106,7 @@
 | **Cryptographer** | `React` `TypeScript` `Web Crypto` | Criptografia que roda inteira dentro do navegador: tranca arquivos com senha, esconde segredos dentro de fotos e áudio, e mostra o que suas fotos entregam. Sem conta e sem servidor. | [Ver](https://github.com/Pedroaruana/Cryptographer) |
 | **ScannerBuild** | `Next.js` `Three.js` `Leaflet` | Selecione um ponto no mapa e reconstrua o prédio em 3D com contorno real do OpenStreetMap, altura, andares e área estimados. | [Ver](https://github.com/Pedroaruana/Scanner-Build) |
 | **CPU Master** | `Next.js` `React Three Fiber` `TypeScript` | Simulador de montagem de PC com checagem de compatibilidade em tempo real e gabinete em 3D navegável. | [Ver](https://github.com/Pedroaruana/CPU-MASTER) |
-| **Wasteland Garden** | `React` `Node.js` `Prisma` `Fastfy` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
+| **Wasteland Garden** | `React` `Node.js` `Prisma` `Fastify` | Gerenciador de tarefas gamificado em pixel art ambientado no apocalipse de 2056. | [Ver](https://github.com/Pedroaruana/Wasteland-Garden) |
 | **World-Skunks** | `TypeScript` `React` `Three.js` `CesiumJS` | Globo terrestre 3D com satélites reais orbitando ao vivo, dados TLE via CelesTrak e propagação orbital SGP4. | [Ver](https://github.com/Pedroaruana/World-Skunks) |
 | **Create Your Language** | `TypeScript` `React` `Node.js` `IA` | Plataforma para criar e personalizar sua própria linguagem de programação, definindo sintaxe, comandos e regras de forma interativa. | [Ver](https://github.com/Pedroaruana/Create-Your-Language-) |
 
