@@ -112,7 +112,7 @@
 </p>
 
 <p align="center"><a href="https://github.com/Pedroaruana?tab=repositories"><b>📁 Ver todos os repositórios →</b></a></p>
---- 
+ 
 
 ## 📊 Contribuições 
 
