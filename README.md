@@ -141,7 +141,7 @@ const pedro = {
 
 --- 
 
-## 📊 Contribuições
+## 📊 Contribuições 
 
 <div align="center">
 
