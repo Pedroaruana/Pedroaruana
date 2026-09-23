@@ -45,7 +45,7 @@
    
 ---
   
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 ```javascript
 const pedro = {
