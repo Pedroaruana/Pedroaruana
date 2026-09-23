@@ -140,14 +140,14 @@ flowchart TD
     R --> CL["☁️ Cloud & DevOps"]
     R --> TS["🧪 Testing"]
     R --> AI["🤖 AI & LLMs"]
-    R --> MB["📱 Mobile"]
     R --> SC["🔐 Security"]
+    R --> MB["📱 Mobile"]
 
     CL --> CL1["✅ Cloud fundamentals"] --> CL2["✅ Docker"] --> CL3["⏳ AWS deploy & hosting"] --> CL4["🔜 CI/CD pipelines"]
-    TS --> TS1["✅ Jest basics"] --> TS2["⏳ Vitest + RTL"] --> TS3["⏳ E2E with Playwright"] --> TS4["🔜 TDD in real projects"]
+    TS --> TS1["✅ Jest basics"] --> TS2["✅ Vitest + RTL"] --> TS3["✅ E2E with Playwright"] --> TS4["🔜 TDD in real projects"]
     AI --> AI1["✅ AI APIs integration"] --> AI2["✅ n8n automations"] --> AI3["⏳ RAG & LangChain"] --> AI4["🔜 Agents in production"]
-    MB --> MB1["✅ React Native basics"] --> MB2["⏳ Expo & native APIs"] --> MB3["🔜 App store deploy"]
-    SC --> SC1["✅ Security fundamentals"] --> SC2["✅ Web Crypto API"] --> SC3["⏳ Secure auth & JWT"] --> SC4["🔜 OWASP Top 10"]
+    SC --> SC1["✅ Security fundamentals"] --> SC2["✅ Web Crypto API"] --> SC3["✅ Secure auth & JWT"] --> SC4["🔜 OWASP Top 10"]
+    MB --> MB1["✅ React Native basics"] --> MB2["✅ Expo & native APIs"] --> MB3["🔜 App store deploy"]
 
     classDef root fill:#9d8cff,stroke:#9d8cff,color:#1e1f22,font-weight:bold
     classDef branch fill:#2a2833,stroke:#9d8cff,color:#dcdce2,font-weight:bold
@@ -156,10 +156,10 @@ flowchart TD
     classDef next fill:#1e1f22,stroke:#6d6f78,color:#8b8d96
 
     class R root
-    class CL,TS,AI,MB,SC branch
-    class CL1,CL2,TS1,AI1,AI2,MB1,SC1,SC2 done
-    class CL3,TS2,TS3,AI3,MB2,SC3 prog
-    class CL4,TS4,AI4,MB3,SC4 next
+    class CL,TS,AI,SC,MB branch
+    class CL1,CL2,TS1,TS2,TS3,AI1,AI2,SC1,SC2,SC3,MB1,MB2 done
+    class CL3,AI3 prog
+    class CL4,TS4,AI4,SC4,MB3 next
 ```
 ---
 
