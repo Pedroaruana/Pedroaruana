@@ -167,7 +167,7 @@ flowchart TD
 
 ### 💬 Bora trocar ideia?
 
-Se você curtiu algum projeto, tem uma oportunidade ou quiser contribuir em algum projeto — me chama!
+Curtiu algum projeto ou tem uma oportunidade?  Me chama!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/)
  <a href="mailto:aruanapedro@gmail.com">
