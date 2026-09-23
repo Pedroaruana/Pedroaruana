@@ -131,12 +131,36 @@
  
 ---
 
-## 🌱 Atualmente estudando
+## 🗺️ Roadmap 2026
 
-- AWS e fundamentos de Cloud Computing, com foco em deploy e hospedagem
-- Testes automatizados com Jest e Vitest, aplicando boas práticas de qualidade de código
-- Integração de APIs de IA e LLMs em aplicações reais, explorando automações e novos recursos 
+```mermaid
+flowchart TD
+    R["🗺️ 2026 Study Roadmap"]
 
+    R --> CL["☁️ Cloud & DevOps"]
+    R --> TS["🧪 Testing"]
+    R --> AI["🤖 AI & LLMs"]
+    R --> MB["📱 Mobile"]
+    R --> SC["🔐 Security"]
+
+    CL --> CL1["✅ Cloud fundamentals"] --> CL2["✅ Docker"] --> CL3["⏳ AWS deploy & hosting"] --> CL4["🔜 CI/CD pipelines"]
+    TS --> TS1["✅ Jest basics"] --> TS2["⏳ Vitest + RTL"] --> TS3["⏳ E2E with Playwright"] --> TS4["🔜 TDD in real projects"]
+    AI --> AI1["✅ AI APIs integration"] --> AI2["✅ n8n automations"] --> AI3["⏳ RAG & LangChain"] --> AI4["🔜 Agents in production"]
+    MB --> MB1["✅ React Native basics"] --> MB2["⏳ Expo & native APIs"] --> MB3["🔜 App store deploy"]
+    SC --> SC1["✅ Security fundamentals"] --> SC2["✅ Web Crypto API"] --> SC3["⏳ Secure auth & JWT"] --> SC4["🔜 OWASP Top 10"]
+
+    classDef root fill:#9d8cff,stroke:#9d8cff,color:#1e1f22,font-weight:bold
+    classDef branch fill:#2a2833,stroke:#9d8cff,color:#dcdce2,font-weight:bold
+    classDef done fill:#1e1f22,stroke:#57d18a,color:#57d18a
+    classDef prog fill:#1e1f22,stroke:#9d8cff,color:#c9c9cf
+    classDef next fill:#1e1f22,stroke:#6d6f78,color:#8b8d96
+
+    class R root
+    class CL,TS,AI,MB,SC branch
+    class CL1,CL2,TS1,AI1,AI2,MB1,SC1,SC2 done
+    class CL3,TS2,TS3,AI3,MB2,SC3 prog
+    class CL4,TS4,AI4,MB3,SC4 next
+```
 ---
 
 <div align="center">
