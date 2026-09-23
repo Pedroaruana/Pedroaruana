@@ -103,12 +103,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/Pedroaruana/World-Skunks"><img src="./projetos/world-skunks.svg" width="49%" /></a>
-  <a href="https://github.com/Pedroaruana/Scanner-Build"><img src="./projetos/scanner-build.svg" width="49%" /></a>
-  <a href="https://github.com/Pedroaruana/Cryptographer"><img src="./projetos/cryptographer.svg" width="49%" /></a>
-  <a href="https://github.com/Pedroaruana/CPU-MASTER"><img src="./projetos/cpu-master.svg" width="49%" /></a>
-  <a href="https://github.com/Pedroaruana/Wasteland-Garden"><img src="./projetos/wasteland-garden.svg" width="49%" /></a>
-  <a href="https://github.com/Pedroaruana/Create-Your-Language-"><img src="./projetos/create-your-language.svg" width="49%" /></a>
+  <a href="https://github.com/Pedroaruana/World-Skunks"><img src="./world-skunks.svg" width="49%" /></a>
+  <a href="https://github.com/Pedroaruana/Scanner-Build"><img src="./scanner-build.svg" width="49%" /></a>
+  <a href="https://github.com/Pedroaruana/Cryptographer"><img src="./cryptographer.svg" width="49%" /></a>
+  <a href="https://github.com/Pedroaruana/CPU-MASTER"><img src="./cpu-master.svg" width="49%" /></a>
+  <a href="https://github.com/Pedroaruana/Wasteland-Garden"><img src="./wasteland-garden.svg" width="49%" /></a>
+  <a href="https://github.com/Pedroaruana/Create-Your-Language-"><img src="./create-your-language.svg" width="49%" /></a>
 </p>
 
 <p align="center"><a href="https://github.com/Pedroaruana?tab=repositories"><b>📁 Ver todos os repositórios →</b></a></p>
