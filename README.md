@@ -167,13 +167,13 @@ flowchart TD
 
 ### 💬 Bora trocar ideia?
 
-Curtiu algum projeto ou tem uma oportunidade?  Me chama!
+Se você curtiu algum projeto, tem uma oportunidade ou quiser contribuir  Me chama!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/)
  <a href="mailto:aruanapedro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
---- 
+
 
 <p align="center"><img src="./card-laranja_1.svg" width="100%" /></p>
 
