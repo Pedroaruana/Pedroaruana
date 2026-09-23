@@ -178,7 +178,7 @@ Se você curtiu algum projeto, tem uma oportunidade ou quiser contribuir em algu
   </a>
 --- 
 
-<p align="center"><img src="./card-laranja.svg" width="100%" /></p>
+<p align="center"><img src="./card-laranja_1.svg" width="100%" /></p>
 
 
 </div>
