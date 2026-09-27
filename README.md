@@ -162,7 +162,7 @@ flowchart TD
     class CL4,TS4,AI4,SC4,MB3 next
 ```
 ---
-
+ 
 <div align="center">
 
 ### 💬 Bora trocar ideia?
