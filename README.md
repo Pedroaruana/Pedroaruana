@@ -17,7 +17,7 @@
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70"/> 
   <img src="fundamentals-badge-databricks-2x.png" width="70"/> 
   <img src="unnamed (1).png" width="70"/>
-  <img src="image.png" width="70"/> 
+  <img src="image.png" width="70"/>  
   <img src="datas.png" width="70"/> 
   <img src="REDHAT.jpg" width="70"/>
   <img src="unnamed.png" width="70"/>
