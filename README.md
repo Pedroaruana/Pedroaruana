@@ -14,7 +14,7 @@
   <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70"/>
   <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70"/>
   <img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70"/>
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70"/> 
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70"/>  
   <img src="fundamentals-badge-databricks-2x.png" width="70"/> 
   <img src="unnamed (1).png" width="70"/>
   <img src="image.png" width="70"/>  
