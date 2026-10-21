@@ -23,7 +23,7 @@
   <img src="unnamed.png" width="70"/>
   <img src="awsa.png" width="70"/>
   <img src="AWSS.png" width="70"/>
-  <img src="google_analyitics_4_badge_certification.png" width="70"/>
+  <img src="google_analyitics_4_badge_certification.png" width="70"/> 
   <img src="KFb7gLKebthw1KJHf_88XmcqyUuizS6TppVyZ1AR9bA=.png" width="70"/>
   <img src="sass.png" width="70"/>
   <img src="oracle_badge_tight.png" width="70"/>
