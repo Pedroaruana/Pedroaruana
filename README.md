@@ -11,7 +11,7 @@
   <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70"/>
   <img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" width="70"/>  
   <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="70"/> 
-  <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70"/> 
+  <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" width="70"/>  
   <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="70"/> 
   <img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="70"/>
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70"/>   
