@@ -3,7 +3,7 @@
   <div align="center" style="margin-top:-30px; margin-bottom:-30px;">
   <img src="pedro-banner-final.png" width="500"/>   
   </div>     
-  <a href="https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Aruanã-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a  href="https://www.linkedin.com/in/pedro-aruan%C3%A3-599105322/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Aruanã-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/pedroaruana"><img src="https://img.shields.io/badge/GitHub-pedroaruana-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:aruanapedro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://portifiolio-pedro.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
